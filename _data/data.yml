@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: marcomoriche@gmail.com
+    email: marcomoriche99@gmail.com
     #phone: 012 345 6789
     timezone: España/Madrid
     citizenship: Español
@@ -98,26 +98,39 @@ projects:
 
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Conocimientos
 
     toolset:
-      - name: Python & Django
+      - name: Python
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: PHP
+        level: 95%
+
+      - name: C++ 
         level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: C#
+        level: 80%
+
+      - name: C
+        level: 60%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Ofimática & Photoshop
+        level: 80%
 
-      - name: Sketch & Photoshop
+      - name: Java
         level: 60%
 
+      - name: Matlab
+        level: 75%
+
+      - name: Unity
+        level: 65%
+
+
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Marco Moriche Calvo 2022
