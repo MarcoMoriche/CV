@@ -107,6 +107,9 @@ skills:
       - name: PHP
         level: 95%
 
+      - name: SQL
+        level: 95%
+
       - name: C++ 
         level: 98%
 
