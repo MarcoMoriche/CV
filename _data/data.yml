@@ -28,18 +28,12 @@ sidebar:
       - idiom: Inglés
         level: Cambridge B2
         
-    interests:
-      - item: Cine
-        link:
-
-      - item: Pádel
-        link:
-
-      - item: Fútbol
-        link:
 
 education:
-
+    - degree: Máster Universitario en Ingeniería de Software y Sistemas Informáticos
+      university: Universidad Internacional de La Rioja
+      time: 2023
+    
     - degree: Ingeniería Informática y Tecnologías Virtuales
       university: Universidad Loyola Andalucía
       time: 2019 - 2022
@@ -47,6 +41,12 @@ education:
         Realicé mis estudios en Ingeniería Informática y Tecnologías Virtuales en la Universidad Loyola Andalucía, Sevilla. Especializandome en la mención en Videojuegos y Contenidos Digitales.
         
 experiences:
+    - role: IDOM Consulting, Engineering, Architecture, Sevilla
+      time: septiembre 2022 - actualidad
+      company: Consultor y desarrollador GIS
+      details: |
+        Mi rol es el de desarrollador de software y consultor en actividades relacionadas con la creación e integración de aplicaciones IoT en diversas administraciones públicas. Además, he participado en proyectos como desarrollador GIS, utilizando mis5 conocimientos en Python y JavaScript.
+          
     - role: IDOM Consulting, Engineering, Architecture, Sevilla
       time: febrero 2022 - agosto 2022
       company: Becario
